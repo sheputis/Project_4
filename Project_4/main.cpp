@@ -1,3 +1,5 @@
+/* Computational physics project 4, Arnoldas Seputis 13 November 2015
+*/
 #include <iostream>
 #include <fstream>
 #include <iomanip>
